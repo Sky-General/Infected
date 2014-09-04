@@ -1,0 +1,8 @@
+name: Infected
+version: ALPHA
+description: Run from the infected, and try not to die!
+author: Sky_General109
+depends: [CGArenaAPI]
+main: me.skyGeneral.infected.Main
+commands:
+  import:
